@@ -1,0 +1,143 @@
+
+
+
+/*
+.body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #d83737;
+}
+
+
+#about, #projects, #skills, #contact {
+  margin-top: 40px;
+}
+
+
+.homepage {
+  text-align: center;
+}
+
+.homepage img {
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+.project {
+  margin-bottom: 40px;
+}
+
+.project img {
+  margin-top: 10px;
+  border-radius: 5px;
+}*/
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #1b1a1a; /* Light gray background */
+  color: #f1ebeb; /* Dark gray text */
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #d61212; /* White background for content */
+  border-radius: 10px; /* Rounded corners for container */
+  box-shadow: 0 0 10px rgba(10, 0, 0, 0.1); /* Shadow effect */
+}
+
+h1, h2, h3 {
+  margin-top: 0;
+  color: #8cf5f5; /* Dark cyan headings */
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Navigation styles */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #008080; /* Dark cyan links */
+}
+
+/* Page section styles */
+#about, #projects, #skills, #contact {
+  margin-top: 40px;
+}
+
+/* Component-specific styles */
+.homepage {
+  text-align: center;
+}
+
+.homepage img {
+  border-radius: 50%;
+  margin-top: 20px;
+  border: 5px solid #008080; /* Dark cyan border around image */
+}
+
+.project {
+  margin-bottom: 40px;
+}
+
+.project img {
+  margin-top: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Shadow effect on project images */
+}
